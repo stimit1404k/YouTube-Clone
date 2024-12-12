@@ -13,7 +13,8 @@ This repository contains a front-end clone of YouTube, built using HTML and CSS.
 - CSS
 
 ## Usage
-To view the YouTube clone, simply open the `index.html` file in any web browser.
+To view the YouTube clone, visit the deployed project at:  
+[https://stimit1404k.github.io/YouTube-Clone/](https://stimit1404k.github.io/YouTube-Clone/)
 
 ## Contributing
 This project is not open for contributions. It was created for personal practice and learning purposes, and no external contributions are being accepted at this time.
